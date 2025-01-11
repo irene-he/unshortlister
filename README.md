@@ -1,5 +1,5 @@
 # Unshortlister 🤖 
-A script for unshortlisting jobs in WaterlooWorks. Built with Selenium and comes with a template file so you can unshortlist your job postings too after each round of applications.
+A script for unshortlisting jobs on WaterlooWorks. Built with Selenium and comes with a template file so you can unshortlist your job postings too after each round of applications.
 
 ## Demo
 Here's a short video showing the script in action. Please excuse the terrible quality 💀.
